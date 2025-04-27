@@ -5,6 +5,10 @@ Learning About Data StoryTelling While Making  Project about E-Commerce Sales An
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendation , and gain deeper understanding of the company's performance.
 
+![Ecommerce main](https://github.com/user-attachments/assets/75aea1ac-c6d0-4883-a693-b6b7c87b1743)
+
+
+
 ### Table Contents 
 
 - [Project Overview](#project-overview)
@@ -63,9 +67,8 @@ I had to remove all zero values from budget and revenue columns because they  wo
 are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue. 
 
 
-
-
-
+😸
+💻
 
 
 
